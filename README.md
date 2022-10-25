@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @prntechnologies
+- 👀 I’m interested in reinforcement learning and autonous vehicles
+- 🌱 I’m currently learning reinforcement learning 
+- 💞️ I’m looking to collaborate on anything machine learning, data analytics or autonomous vehicles
+- 📫 How to reach me through GitHub
